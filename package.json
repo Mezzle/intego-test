@@ -1,0 +1,7 @@
+{
+  "name": "intego-test",
+  "dependencies": {
+    "snyk":"latest"
+  }
+}
+
